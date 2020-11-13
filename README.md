@@ -1,0 +1,2 @@
+# HTML to Excel or Word
+This class can convert a HTML table to Excel or Word formats.  It can take a given string with an HTML table and builds an Excel or Word XML format to contain the given HTML table data.  If the HTML string contains more than a HTML table, the class strips the remaining HTML just to insert the table data.  The resulting documents can be returned as strings or served for download.
